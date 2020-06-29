@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotLin Hello World</string>
+    <string name="title_activity_activities">com.example.Activities</string>
+</resources>
